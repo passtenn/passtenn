@@ -27,9 +27,8 @@ Soy egresada de la Licenciatura en Sistemas de Información y actualmente me esp
 ## 🛠️ Habilidades técnicas
 
 - **Lenguajes**: SQL, Python (pandas, matplotlib), JavaScript, PHP  
-- **BI & Visualización**: Power BI, Tableau (básico)  
 - **Bases de datos**: MySQL, SQLite  
-- **Herramientas**: Git, GitHub, Excel avanzado, APIs  
+- **Herramientas**: Git, GitHub, Excel intermedio
 - **Desarrollo web**: HTML, CSS, AngularJS, Shopify
 
 ---
