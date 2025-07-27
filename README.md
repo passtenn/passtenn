@@ -45,7 +45,7 @@ Soy egresada de la Licenciatura en Sistemas de Información y actualmente me esp
 ## 🌐 ¿Dónde más me encuentras?
 
 - 💼 [LinkedIn](www.linkedin.com/in/taniapasten)  
-- ✉️ contacto: tu.email@gmail.com  
+- ✉️ contacto: taniapasstenn@gmail.com 
 
 ---
 
