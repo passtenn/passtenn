@@ -36,7 +36,7 @@ Soy egresada de la Licenciatura en Sistemas de Información y actualmente me esp
 
 ## 📌 Proyectos destacados
 
-- 📈 Análisis de ventas con Python → [ver proyecto](/proyecto6)
+- 📈 Análisis de ventas con Python → [ver proyecto](https://github.com/passtenn/proyecto6)
 - 🧹 Limpieza y visualización de datos de nutrición → [ver proyecto](#)
 - 📦 Dashboard de control de almacén con Power BI → [ver proyecto](#)
 
