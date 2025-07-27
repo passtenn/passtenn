@@ -1,16 +1,54 @@
-## Hi there 👋
 
-<!--
-**passtenn/passtenn** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# ✨ ¡Hola! Soy Tania
 
-Here are some ideas to get you started:
+Soy egresada de la Licenciatura en Sistemas de Información y actualmente me especializo como Data Analyst. Tengo experiencia desarrollando software administrativo, analizando bases de datos, generando reportes estratégicos y brindando soporte técnico. Me gusta aprender constantemente y disfruto trabajar en equipo para convertir los datos en ideas accionables. Busco seguir creciendo en el área de análisis, contribuyendo a proyectos que marquen una diferencia.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 🧠 Sobre mí
+
+- 🎓 Egresada de la Universidad de Guadalajara en Sistemas de Información.
+- 📊 En formación como Data Analyst en el bootcamp de TripleTen.
+- 🧩 Me gusta resolver problemas con datos, automatizar procesos y entender al usuario.
+- 🧑‍🏫 Fui docente de Informática y Matemáticas en secundaria técnica por 2 años.
+- 🌱 Actualmente profundizando en Python y estadística aplicada.
+
+---
+
+## 💼 Experiencia destacada
+
+- 📚 Distribuidora de libros escolares: desarrollo y mantenimiento de software ERP, generación de reportes en MySQL, soporte técnico a usuarios.
+- 🍎 App de nutrición: desarrollo en JavaScript, PHP, AngularJS, análisis de métricas y mejora continua.
+- 🛒 Tienda online con Shopify: desarrollo front-end, integración de pagos, APIs y soporte a clientes.
+- 👩‍🏫 Docente: uso de herramientas digitales para fomentar el aprendizaje y el pensamiento lógico.
+
+---
+
+## 🛠️ Habilidades técnicas
+
+- **Lenguajes**: SQL, Python (pandas, matplotlib), JavaScript, PHP  
+- **BI & Visualización**: Power BI, Tableau (básico)  
+- **Bases de datos**: MySQL, SQLite  
+- **Herramientas**: Git, GitHub, Excel avanzado, APIs  
+- **Desarrollo web**: HTML, CSS, AngularJS, Shopify
+
+---
+
+## 📌 Proyectos destacados
+
+- 📈 Análisis de ventas con Python → [ver proyecto](#)
+- 🧹 Limpieza y visualización de datos de nutrición → [ver proyecto](#)
+- 📦 Dashboard de control de almacén con Power BI → [ver proyecto](#)
+
+---
+
+## 🌐 ¿Dónde más me encuentras?
+
+- 💼 [LinkedIn](www.linkedin.com/in/taniapasten)  
+- ✉️ contacto: tu.email@gmail.com  
+
+---
+
+> “No sueñes con el éxito, trabaja para él.”
+
+Gracias por visitar mi perfil 🤍
